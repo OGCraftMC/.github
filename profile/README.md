@@ -1,6 +1,6 @@
 # OGCraft
 
-OGCraft is a SMP Minecraft server focussed on 
+OGCraft is a SMP Minecraft server focussed on providing an inclusive and non PTW public server for all to enjoy.
 
 **Quickstart:**
 - Join our [Discord](https://OGCraft.org/discord)
